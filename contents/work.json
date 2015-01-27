@@ -1,9 +1,11 @@
 [{
     "name": "Delta Electronics, Inc.",
     "year": 2013,
-    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "photo": "delta.jpg",
+    "detail": "Wireless Sensor Networks research work."
 }, {
     "name": "FlamingoEDA",
     "year": 2014,
-    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "photo": "flamingo.png",
+    "detail": "Motion controlled show stand with Transparent OLED Screen."
 }]
