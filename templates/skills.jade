@@ -1,2 +1,4 @@
 h3 Skills
-p (todo)
+ul
+each item in contents['skills.json'].metadata
+	li= item.name

@@ -1,1 +1,11 @@
-[]
+[{
+    "degree": "B.E. in Automation",
+    "school": "Tsinghua University",
+    "city": "Beijing, China",
+    "year": "2010~2014"
+},{
+    "degree": "M.S. in Computer Science",
+    "school": "University of Colorado Boulder",
+    "city": "Boulder, CO",
+    "year": "2014~2016(expected)"
+}]

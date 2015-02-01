@@ -1,11 +1,16 @@
 [{
+    "name": "China Open",
+    "year": 2011,
+    "photo": "open.png",
+    "detail": "Service and guidance."
+}, {
     "name": "Delta Electronics, Inc.",
     "year": 2013,
-    "photo": "delta.jpg",
+    "photo": "delta.png",
     "detail": "Wireless Sensor Networks research work."
 }, {
     "name": "FlamingoEDA",
     "year": 2014,
     "photo": "flamingo.png",
-    "detail": "Motion controlled show stand with Transparent OLED Screen."
+    "detail": "Motion controlled museum exhibition platform with Transparent OLED Screen."
 }]

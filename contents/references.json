@@ -1,1 +1,7 @@
-[]
+[{
+    "name": "Dr. Tom Yeh",
+    "reference": "Instructor"
+}, {
+    "name": "Mike Skirpan",
+    "reference": "Teaching Assistant"
+}]

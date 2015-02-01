@@ -1,1 +1,20 @@
-[]
+[{
+    "title": "MUER",
+    "description": "Design and implementation of the user interface of MUER app, an app to find and share songs emotionally compared to the pictures users took.",
+    "image": "muer.png"
+}, 
+{
+	"title": "Motion-Controlled Museum exhibition platform",
+    "description": "A exhibition platform using Leap Motion, NFC and Transparent OLED Screen to enhance interaction experience.",
+    "image": "platform.jpg"
+},
+{
+	"title": "Wechat public platform ofTsinghua University Student Associations Center",
+    "description": "Redesigned the user interface and arrangement of news and information.",
+    "image": "wechat.jpg"
+},
+{
+    "title": "Chill",
+    "description": "Design of the user interface of Chill app, an app that makes it easy to arrange hangout activities with friends.",
+    "image": "chill.jpg"
+}]
